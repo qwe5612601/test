@@ -1,0 +1,10 @@
+开发工具：Microsoft Visual Studio 2010
+控件：DevExpress 14.1
+
+数据库：联合开发时用Oracle,真正部署时用access
+
+GIS平台：ArcGIS 10.2
+
+
+
+
